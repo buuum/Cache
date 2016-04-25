@@ -1,6 +1,6 @@
 <?php
 
-namespace Cache;
+namespace Buuum;
 
 use Doctrine\Common\Cache\CacheProvider;
 
